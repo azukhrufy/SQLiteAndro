@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="p_img">
+        <item>@drawable/ic_person_outline_black_24dp</item>
+        <item>@drawable/ic_person_black_24dp</item>
+        <item>@drawable/ic_record_voice_over_black_24dp</item>
+    </array>
+
+    <string-array name="p_name">
+        <item>Si A</item>
+        <item>Si B</item>
+        <item>Si C</item>
+    </string-array>
+
+    <string-array name="desc">
+        <item>Already Person</item>
+        <item>Orang Biasa</item>
+        <item>Orang Ngomong</item>
+    </string-array>
+</resources>
